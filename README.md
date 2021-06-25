@@ -1,5 +1,35 @@
 Instagram Challenge
 ===================
+This is a web application that allows users to post images, as well as like and leave comments on other people's posts
+
+## User stories
+
+```
+As a user, 
+So I can use the website,
+I want to be able to create an account that I can sign in and out of.
+
+As a user,
+So I can share photos with people,
+I want to be able to post images onto the website.
+
+As a user,
+So I can engage with other people's posts,
+I want to be able to comment on a post
+
+As a user,
+So I can show appreciation for posts I like,
+I want to be able to like photos I see on the website.
+
+As a user, 
+So I can see the posts of other people,
+I want to be able to go to another user's page and see their posts
+
+As a user,
+So I can have a positive experience from using the website,
+I want to a nice User Interface and styling.
+```
+
 
 ## Instructions
 
